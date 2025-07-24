@@ -40,6 +40,8 @@ public class Hw0301 {
         System.out.print("Введите имя: ");
         Scanner sc = new Scanner(System.in,this.codePage);
         this.name = sc.nextLine();
+        sc.close();
+
     }
     /* print info */
     public void printInfo() {
