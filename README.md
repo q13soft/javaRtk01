@@ -1,3 +1,7 @@
+## Домашняя работа 8   
+
+
+
 ## Домашняя работа 7  
 Для выполнения 7 домашней работы созданы 5 файла Main.java, Person.java, Product.java, DiscountProduct.java, ProductCollection.java в папке проекта src\ru\rtk\java\hw\hw07  
 Класс Main содержит метод main и является точкой входа.    
